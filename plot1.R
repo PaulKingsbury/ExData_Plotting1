@@ -1,4 +1,4 @@
-attach(dataprep.R)
+source(dataprep.R)
 
 # first plot
 
